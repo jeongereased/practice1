@@ -7,4 +7,6 @@ int main()
 	//helloworld2
 	//hi?
 	//anjdidlrp
+	//goodjob
+	//¼ö°í¿ä
 }
