@@ -6,4 +6,6 @@ int main()
 	//hello world
 	//helloworld2
 	//hi?
+	//goodjob
+	//¼ö°í¿ä
 }
